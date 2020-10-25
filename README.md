@@ -1,5 +1,5 @@
 # McConahie.Roulette
-Roulette Library
+C# Roulette Library
 
 ### Example
 
