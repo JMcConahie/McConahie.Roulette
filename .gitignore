@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/McConahie.Roulette/bin/x64/Debug/netstandard2.0
+/McConahie.Roulette/obj
+/McConahieRouletteTests/bin
+/McConahieRouletteTests/obj
+*.user
